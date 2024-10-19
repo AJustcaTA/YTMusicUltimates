@@ -88,8 +88,8 @@
 "SOURCE_CODE" = "原始碼";
 "SOURCE_CODE_DESC" = "查看原始碼";
 
-"CLOSE" =  "關閉";
-"LOGIN_INFO" = "成功登入 Google 帳戶後需要重新啟動應用程式";
+"CLOSE" =  "關閉 by Jst";
+"LOGIN_INFO" = "成功登入 Google 帳戶後需要重新啟動應用程式 by Jst";
 "RETRY_LOGIN" = "登入權限已修復\n\n請再次登入";
 "APPLY_MESSAGE" = "這個操作將關閉YouTube Music以套用變更，您確定要繼續嗎？";
 "CANCEL" = "取消";
